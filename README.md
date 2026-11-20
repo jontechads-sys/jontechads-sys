@@ -34,4 +34,4 @@ Profissional de tecnologia focado em desenvolvimento **Backend (C# / .NET)**, de
 ### 🌐 Portfólio & Contato
 
 - **Portfólio Web:** [jontechads-sys.github.io](https://jontechads-sys.github.io)
-- **LinkedIn:** [Acessar perfil no LinkedIn](
+- **LinkedIn:** (https://www.linkedin.com/in/jonas-santos-344508249)
